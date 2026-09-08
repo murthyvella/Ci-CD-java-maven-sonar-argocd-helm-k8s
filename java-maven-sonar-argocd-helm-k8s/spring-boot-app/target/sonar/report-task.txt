@@ -1,0 +1,6 @@
+projectKey=cicd-project
+serverUrl=http://100.31.115.230:8000
+serverVersion=26.9.0.129388
+dashboardUrl=http://100.31.115.230:8000/dashboard?id=cicd-project
+ceTaskId=a50aab08-3e8f-418f-abab-7b144648ceec
+ceTaskUrl=http://100.31.115.230:8000/api/ce/task?id=a50aab08-3e8f-418f-abab-7b144648ceec
